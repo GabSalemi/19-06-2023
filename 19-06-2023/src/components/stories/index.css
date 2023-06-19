@@ -1,0 +1,25 @@
+.stories__div {
+    width: 800px;
+    height: 98px;
+    overflow-x: scroll;
+}
+
+.stories__list {
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+.logged--user__stories {
+    height: 98px;
+    width: 10%;
+}
+
+.followed__stories {
+    height: 98px;
+    width: 10%;
+}
+
